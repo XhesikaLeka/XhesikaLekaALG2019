@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Mexhit
+ * @author Xhesika Leka
  *
  */
 package webCrawler;
